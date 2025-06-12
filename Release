@@ -1,8 +1,8 @@
-Origin: ShadowStonk Repo
-Label: ShadowStonk Repo
+Origin: Saily Installer Repo
+Label: Saily Installer Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm642
+Architectures: iphoneos-arm
 Components: main
-Description: ShadowStonk Repo
+Description: Saily Installer Repo

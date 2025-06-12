@@ -1,14 +1,14 @@
-Package: com.ShadowStonk.dockbegone_1.0_iphoneos-arm64e.deb
-Name: DockBeGone
-Version: 1.0
-Architecture: <iphoneos-arm64e>
-Description: Zero out dock material using Ian Beer's exploit, to run this you must open a terminal app such as NewTerm and run "dockbegone", afer this run "killall -9 SpringBoard", after the respring rerun "dockbegone", this will periodically ensure the dock is hidden in the background.
-Maintainer: ShadowStonk
-Author: ShadowStonk
-Section: utilities
-Depends: firmware (>= 13.0)
-Filename: com.ShadowStonk.dockbegone_1.0_iphoneos-arm64e.deb
-Size: 7496
-MD5sum: b65715ff0d1e8ce0cf5f3d037fbc1a38 
-SHA1: b58c754f2763705d983e8014cddebbe34ffcd65b
-SHA256: 9f389416a2f16f61a944d6e28fa4ee2e36fc0a00a772d80fed8b3b4ef1eecaf4
+Package: com.ShadowStonk.jw.SailyInstaller_0.0.1_iphoneos-arm.deb
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Yourname <email (put in <>)>
+Depends: firmware (>= 11.0)
+Filename: /SailyInstaller.deb
+Size: 40033316
+MD5sum: 68cba9a0a418e2552d7b31702b628cf1
+SHA1: 56c35fdc1aa96b8bfdec70b3e901db85daf70e04
+SHA256: 61405a531420de32cd3e75708684850a577a5c569d0feb24e62fa833059ff1ab
+Section: Tweaks
+Description: Saily Package Manager Internal Build Download. :)
+Author: Lakr Aream
+Name: Saily Installer (TEST)
