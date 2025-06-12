@@ -1,0 +1,14 @@
+Package: com.ShadowStonk.dockbegone_1.0_iphoneos-arm64e.deb
+Name: DockBeGone
+Version: 1.0
+Architecture: <iphoneos-arm64e>
+Description: Zero out dock material using Ian Beer's exploit, to run this you must open a terminal app such as NewTerm and run "dockbegone", afer this run "killall -9 SpringBoard", after the respring rerun "dockbegone", this will periodically ensure the dock is hidden in the background.
+Maintainer: ShadowStonk
+Author: ShadowStonk
+Section: utilities
+Depends: firmware (>= 13.0)
+Filename: com.ShadowStonk.dockbegone_1.0_iphoneos-arm64e.deb
+Size: 7496
+MD5sum: b65715ff0d1e8ce0cf5f3d037fbc1a38 
+SHA1: b58c754f2763705d983e8014cddebbe34ffcd65b
+SHA256: 9f389416a2f16f61a944d6e28fa4ee2e36fc0a00a772d80fed8b3b4ef1eecaf4
